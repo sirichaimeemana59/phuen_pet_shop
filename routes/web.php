@@ -21,6 +21,12 @@ Route::get('locale/{locale?}',function($locale){
 
 //employee_product
 Route::any('employee/home','Product\ProductController@index');
+Route::any('/employee/product','Product\ProductController@index');
+Route::post('/employee/product/add','Product\ProductController@create');
+Route::post('/employee/product/view','Product\ProductController@show');
+Route::post('/employee/product/edit','Product\ProductController@edit');
+Route::post('/employee/product/update','Product\ProductController@update');
+Route::post('/employee/product/delete','Product\ProductController@destroy');
 
 //employee_company_store
 Route::any('/employee/company_store','Product\CompanystoreController@index');
@@ -29,3 +35,7 @@ Route::any('/employee/company_store/view','Product\CompanystoreController@show')
 Route::post('/employee/company_store/edit','Product\CompanystoreController@edit');
 Route::post('/employee/company_store/edit/file','Product\CompanystoreController@update');
 Route::post('/employee/company_store/delete','Product\CompanystoreController@destroy');
+
+//employee_unit_store
+Route::any('/employee/unit_store','Product\UnitController@index');
+Route::post('/employee/unit/add','Product\UnitController@create');

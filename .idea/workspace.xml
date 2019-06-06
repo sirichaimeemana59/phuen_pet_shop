@@ -2,132 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e448dcf7-9326-47a1-aacc-3bf577d33cbf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/GeneralModel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/store.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/additional-methods.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/additional-methods.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/jquery.validate.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/jquery.validate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ar.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_bg.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_bg.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ca.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ca.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_cs.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_cs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_da.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_da.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_de.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_el.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_el.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_es.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_es.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_es_AR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_es_AR.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_et.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_et.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_eu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_eu.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_fa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_fa.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_fi.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_fr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_fr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_gl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_gl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_he.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_he.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_hr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_hr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_hu.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_hu.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_id.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_id.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_is.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_is.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_it.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_it.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ja.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ja.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ka.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_kk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_kk.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ko.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ko.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_lt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_lt.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_lv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_lv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_my.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_my.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_nl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_no.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_no.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_pl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_pl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_pt_BR.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_pt_BR.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_pt_PT.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_pt_PT.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ro.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ro.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ru.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_ru.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_si.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_si.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sk.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sr_lat.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sr_lat.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sv.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_sv.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_th.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_th.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_tj.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_tj.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_tr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_tr.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_uk.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_uk.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_vi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_vi.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_zh.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_zh.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_zh_TW.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/messages_zh_TW.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_de.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_de.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_es_CL.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_es_CL.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_fi.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_fi.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_nl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_nl.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_pt.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-validate/localization/methods_pt.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/company_store/edit_store.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/company_store/list_company_store.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/company_store/list_company_store_element.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/company_store/view_store.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Helpers/Constants.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Helpers/ImageUpload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/unit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/product/edit_product.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/product/list_product_element.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/product/view_product.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/unit/list_unit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/views/unit/list_unit_element.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/phuen_pet_shop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/phuen_pet_shop.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/Product/ProductController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/Product/ProductController.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/app.php" beforeDir="false" afterPath="$PROJECT_DIR$/config/app.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2019_06_05_063044_create_products_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2019_06_05_063044_create_products_table.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/lang/en/messages.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/en/messages.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/lang/th/messages.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/lang/th/messages.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/home/home_user.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/home_user.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home/menu_employee.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home/menu_employee.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/product/list_product.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/product/list_product.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
@@ -146,10 +39,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="84" selection-start-line="30" selection-start-column="84" selection-end-line="30" selection-end-column="84" />
+            <state relative-caret-position="476">
+              <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
               <folding>
-                <marker date="1559798881063" expanded="true" signature="516:592" ph="..." />
+                <marker date="1559816132507" expanded="true" signature="953:1029" ph="..." />
               </folding>
             </state>
           </provider>
@@ -158,8 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/lang/en/messages.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="367">
+              <caret line="42" column="14" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -167,20 +60,63 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/lang/th/messages.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+            <state relative-caret-position="696">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Product/CompanystoreController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="415">
+              <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+              <folding>
+                <element signature="e#48#60#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Product/CompanystoreController.php">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Product/ProductController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="608">
+              <caret line="131" column="27" lean-forward="true" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+              <folding>
+                <element signature="e#49#77#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/product/edit_product.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="23" column="58" lean-forward="true" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/product/list_product.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="409">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+              <caret line="289" column="44" lean-forward="true" selection-start-line="289" selection-start-column="44" selection-end-line="289" selection-end-column="44" />
               <folding>
-                <element signature="e#48#60#0#PHP" expanded="true" />
+                <element signature="e#6193#6221#0#HTML" expanded="true" />
+                <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/product/list_product_element.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="49" column="43" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -193,6 +129,9 @@
       <find>grid-margin</find>
       <find>mdi mdi-menu</find>
       <find>dropdown-toggle</find>
+      <find>/employee/product/view</find>
+      <find>show</find>
+      <find>/employee/product</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -207,27 +146,36 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/.env" />
-        <option value="$PROJECT_DIR$/database/migrations/2019_06_05_063044_create_products_table.php" />
-        <option value="$PROJECT_DIR$/app/Http/Controllers/Product/ProductController.php" />
         <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/home/menu_employee.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/app/Http/Middleware/Language.php" />
         <option value="$PROJECT_DIR$/app/Http/Kernel.php" />
-        <option value="$PROJECT_DIR$/resources/views/product/list_product.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/home/menu_employee.blade.php" />
-        <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$PROJECT_DIR$/resources/views/company_store/view_store.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/company_store/edit_store.blade.php" />
-        <option value="$PROJECT_DIR$/resources/lang/en/messages.php" />
-        <option value="$PROJECT_DIR$/resources/lang/th/messages.php" />
         <option value="$PROJECT_DIR$/database/migrations/2019_06_06_035431_create_store_table.php" />
         <option value="$PROJECT_DIR$/app/store.php" />
-        <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/Product/CompanystoreController.php" />
         <option value="$PROJECT_DIR$/resources/views/home/home_user.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/company_store/list_company_store.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/company_store/list_company_store_element.blade.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_06_05_063044_create_products_table.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2019_06_06_083654_create_unit_table.php" />
+        <option value="$PROJECT_DIR$/app/unit.php" />
+        <option value="$PROJECT_DIR$/resources/views/home/menu_employee.blade.php" />
+        <option value="$PROJECT_DIR$/resources/lang/en/messages.php" />
+        <option value="$PROJECT_DIR$/resources/lang/th/messages.php" />
+        <option value="$PROJECT_DIR$/resources/views/unit/list_unit.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/unit/list_unit_element.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Product/UnitController.php" />
+        <option value="$PROJECT_DIR$/app/product.php" />
+        <option value="$PROJECT_DIR$/resources/views/product/list_product_element.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/product/view_product.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/product/edit_product.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/product/list_product.blade.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Product/ProductController.php" />
       </list>
     </option>
   </component>
@@ -315,12 +263,15 @@
       <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
       <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
       <path value="$PROJECT_DIR$/vendor/laravelcollective/html" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/intervention/image" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1019" />
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="901" />
+    <option name="width" value="1023" />
     <option name="height" value="1012" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -329,6 +280,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,30 +312,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="Http" type="462c0819:PsiDirectoryNode" />
               <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="Auth" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="phuen_pet_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phuen_pet_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
               <item name="Product" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="phuen_pet_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phuen_pet_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
-              <item name="User" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="phuen_pet_shop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="phuen_pet_shop" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="Http" type="462c0819:PsiDirectoryNode" />
-              <item name="Middleware" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="phuen_pet_shop" type="b2602c69:ProjectViewProjectNode" />
@@ -445,11 +374,31 @@
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="layout" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="phuen_pet_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuen_pet_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuen_pet_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuen_pet_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="product" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="phuen_pet_shop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="phuen_pet_shop" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="unit" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -460,15 +409,15 @@
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/resources/views/company_store" />
-      <recent name="$PROJECT_DIR$/public/js" />
-      <recent name="$PROJECT_DIR$/app" />
-      <recent name="$PROJECT_DIR$/app/Http/Middleware" />
-      <recent name="$PROJECT_DIR$/resources/lang/en" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/img" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/views/product" />
+      <recent name="$PROJECT_DIR$/resources/views/unit" />
+      <recent name="$PROJECT_DIR$/app" />
+      <recent name="$PROJECT_DIR$/resources/views/company_store" />
+      <recent name="$PROJECT_DIR$/public/js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -500,23 +449,24 @@
       <option name="presentableId" value="Default" />
       <updated>1559712474299</updated>
       <workItem from="1559712477864" duration="8534000" />
-      <workItem from="1559791894834" duration="8275000" />
+      <workItem from="1559791894834" duration="8349000" />
+      <workItem from="1559800455455" duration="10384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16809000" />
+    <option name="totallyTimeSpent" value="27267000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="1012" extended-state="6" />
+    <frame x="-1" y="23" width="1023" height="1012" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49710312" weight="0.4367347" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49710312" weight="0.25891948" />
       <window_info id="Structure" order="1" sideWeight="0.50289685" side_tool="true" weight="0.25239617" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32908458" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39976826" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -547,28 +497,8 @@
     <entry file="file://$PROJECT_DIR$/public/css/style.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_06_05_063044_create_products_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-          <folding>
-            <element signature="e#7#45#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/home/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Product/ProductController.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
-          <folding>
-            <element signature="e#48#76#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/home/images/logo.svg">
       <provider selected="true" editor-type-id="images" />
@@ -627,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/product/list_product.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/User.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -651,20 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/app.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="219" column="56" lean-forward="true" selection-start-line="219" selection-start-column="56" selection-end-line="219" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home/menu_employee.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/js/jquery-validate/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -672,20 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/en/messages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_06_06_035431_create_store_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -699,23 +594,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/lang/th/messages.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/routes/web.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="30" column="84" selection-start-line="30" selection-start-column="84" selection-end-line="30" selection-end-column="84" />
-          <folding>
-            <marker date="1559798881063" expanded="true" signature="516:592" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/company_store/edit_store.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
@@ -723,37 +601,194 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home/home_user.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="370" column="41" lean-forward="true" selection-start-line="370" selection-start-column="41" selection-end-line="370" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/company_store/list_company_store_element.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="710">
-          <caret line="100" column="16" lean-forward="true" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+        <state relative-caret-position="534">
+          <caret line="92" column="24" lean-forward="true" selection-start-line="92" selection-start-column="24" selection-end-line="92" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/company_store/list_company_store.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="52" column="45" lean-forward="true" selection-start-line="52" selection-start-column="45" selection-end-line="52" selection-end-column="45" />
+        <state relative-caret-position="334">
+          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
           <folding>
-            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home/home_user.blade.php">
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_06_06_035431_create_store_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="22" column="12" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_06_05_063044_create_products_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="484">
-          <caret line="370" column="41" lean-forward="true" selection-start-line="370" selection-start-column="41" selection-end-line="370" selection-end-column="41" />
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#7#45#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Helpers/Constants.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="638">
+          <caret line="232" column="67" selection-start-line="232" selection-start-column="67" selection-end-line="232" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_06_06_083654_create_unit_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home/menu_employee.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/unit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding>
+            <element signature="e#23#44#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/unit/list_unit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="135" column="104" selection-start-line="135" selection-start-column="104" selection-end-line="135" selection-end-column="104" />
+          <folding>
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/th/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="9" selection-end-line="57" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/unit/list_unit_element.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Product/UnitController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <element signature="e#48#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="29" />
+          <folding>
+            <element signature="e#23#44#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/lang/en/messages.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/product/view_product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="6" lean-forward="true" selection-start-line="22" selection-start-column="6" selection-end-line="22" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/product/list_product_element.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="34" selection-end-line="49" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/product/edit_product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="23" column="58" lean-forward="true" selection-start-line="23" selection-start-column="58" selection-end-line="23" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/product/list_product.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="289" column="44" lean-forward="true" selection-start-line="289" selection-start-column="44" selection-end-line="289" selection-end-column="44" />
+          <folding>
+            <element signature="e#6193#6221#0#HTML" expanded="true" />
+            <element signature="n#style#0;n#i#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Product/CompanystoreController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="415">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#48#60#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="73" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="73" />
+          <folding>
+            <marker date="1559816132507" expanded="true" signature="953:1029" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Product/ProductController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="131" column="27" lean-forward="true" selection-start-line="131" selection-start-column="27" selection-end-line="131" selection-end-column="27" />
+          <folding>
+            <element signature="e#49#77#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>

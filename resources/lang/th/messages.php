@@ -32,11 +32,18 @@ return [
     'Add_class' => 'เพิ่มวันเรียน',
     'person' => 'คน',
     'time_class'=>'เวลา',
+    'select_unit'=>'---กรุณาเลือกหน่วย---',
     'showing'	=> 'แสดงจาก <strong>:from</strong> ถึง <strong>:to</strong> จาก <strong>:total</strong> รายการ',
 
 
     'product'=>[
         'head_product' => 'สินค้า',
+        'name_th' => 'ชื่อสินค้า [TH]',
+        'name_en' => 'ชื่อสินค้า [EN]',
+        'price' => 'ราคา',
+        'photo' => 'รูป',
+        'amount' => 'จำนวน',
+        'unit_id' => 'หน่วย',
     ],
     'store' => [
         'title' => 'ร้านค้า',
@@ -45,5 +52,9 @@ return [
         'tax'  => 'เลขประจำตัวผู้เสียภาษี',
         'name' => 'ชื่อร้านค้า',
         'address' => 'ที่อยู่',
+    ],
+    'unit' => [
+        'title' => 'หน่วย',
+        'name' => 'ชื่อ',
     ]
 ];

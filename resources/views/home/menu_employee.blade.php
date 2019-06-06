@@ -1,7 +1,7 @@
 <nav class="sidebar sidebar-offcanvas" id="sidebar">
     <ul class="nav">
         <li class="nav-item">
-            <a class="nav-link" href="index.html">
+            <a class="nav-link" href="{!! url('/employee/product') !!}">
                 <i class="mdi mdi-home menu-icon"></i>
                 <span class="menu-title">{!! trans('messages.product.head_product') !!}</span>
             </a>
@@ -10,6 +10,12 @@
             <a class="nav-link" href="{!! url('/employee/company_store') !!}">
                 <i class="fa fa-archive menu-icon"></i>
                 <span class="menu-title">{!! trans('messages.store.title') !!}</span>
+            </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="{!! url('/employee/unit_store') !!}">
+                <i class="fa fa-list-ul menu-icon"></i>
+                <span class="menu-title">{!! trans('messages.unit.title') !!}</span>
             </a>
         </li>
         <li class="nav-item">

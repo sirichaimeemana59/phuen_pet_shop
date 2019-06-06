@@ -32,10 +32,17 @@ return [
     'Add_class' => 'Add class',
     'person' => 'Person',
     'time_class'=>'Time',
+    'select_unit'=>'---Please Select unit---',
     'showing'	=> 'Showing <strong>:from</strong> to <strong>:to</strong> from <strong>:total</strong>',
 
     'product'=>[
         'head_product' => 'Product',
+        'name_th' => 'Name [TH]',
+        'name_en' => 'Name [EN]',
+        'price' => 'Price',
+        'photo' => 'Photo',
+        'amount' => 'Amount',
+        'unit_id' => 'Unit',
     ],
     'store' => [
         'title' => 'Store',
@@ -44,5 +51,9 @@ return [
         'tax'  => 'Tax-id',
         'name' => 'Name',
         'address' => 'Address',
+    ],
+    'unit' => [
+        'title' => 'Unit',
+        'name' => 'Name',
     ]
 ];
