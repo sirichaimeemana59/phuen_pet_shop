@@ -117,7 +117,7 @@ class ProductController extends Controller
             $product->user_id = null;
             $product->store_id = null;
             $product->unit_id = $request->input('unit_id');
-            $product->photo = $request->input('photo_');;
+            $product->photo = $request->input('photo_');
             $product->name_en = $request->input('name_en');
             $product->save();
         }
