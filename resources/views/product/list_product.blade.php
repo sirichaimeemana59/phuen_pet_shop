@@ -6,7 +6,6 @@
                 <div class="card-body">
                     <p class="card-title">Recent Purchases</p>
                     5555
-                    {!! Session::get('locale') !!}
                 </div>
             </div>
         </div>

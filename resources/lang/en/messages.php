@@ -32,8 +32,17 @@ return [
     'Add_class' => 'Add class',
     'person' => 'Person',
     'time_class'=>'Time',
+    'showing'	=> 'Showing <strong>:from</strong> to <strong>:to</strong> from <strong>:total</strong>',
 
     'product'=>[
         'head_product' => 'Product',
     ],
+    'store' => [
+        'title' => 'Store',
+        'tell' => 'Phone',
+        'mail' => 'E-mail',
+        'tax'  => 'Tax-id',
+        'name' => 'Name',
+        'address' => 'Address',
+    ]
 ];

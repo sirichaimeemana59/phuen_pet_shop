@@ -32,8 +32,18 @@ return [
     'Add_class' => 'เพิ่มวันเรียน',
     'person' => 'คน',
     'time_class'=>'เวลา',
+    'showing'	=> 'แสดงจาก <strong>:from</strong> ถึง <strong>:to</strong> จาก <strong>:total</strong> รายการ',
+
 
     'product'=>[
         'head_product' => 'สินค้า',
     ],
+    'store' => [
+        'title' => 'ร้านค้า',
+        'tell' => 'เบอร์โทร',
+        'mail' => 'อีเมล',
+        'tax'  => 'เลขประจำตัวผู้เสียภาษี',
+        'name' => 'ชื่อร้านค้า',
+        'address' => 'ที่อยู่',
+    ]
 ];

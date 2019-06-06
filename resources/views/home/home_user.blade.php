@@ -17,6 +17,8 @@
     <link rel="stylesheet" href="{!! url('/') !!}/home/css/style.css">
     <!-- endinject -->
     <link rel="shortcut icon" href="{!! url('/') !!}/home/images/favicon.png" />
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 <body>
 <div class="container-scroller">
@@ -359,26 +361,20 @@
 
 <!-- plugins:js -->
 <script src="{!! url('') !!}/home/vendors/base/vendor.bundle.base.js"></script>
-<!-- endinject -->
-<!-- Plugin js for this page-->
 <script src="{!! url('') !!}/home/vendors/chart.js/Chart.min.js"></script>
 <script src="{!! url('') !!}/home/vendors/datatables.net/jquery.dataTables.js"></script>
 <script src="{!! url('') !!}/home/vendors/datatables.net-bs4/dataTables.bootstrap4.js"></script>
-<!-- End plugin js for this page-->
-<!-- inject:js -->
 <script src="{!! url('') !!}/home/js/off-canvas.js"></script>
 <script src="{!! url('') !!}/home/js/hoverable-collapse.js"></script>
 <script src="{!! url('') !!}/home/js/template.js"></script>
-<!-- endinject -->
-<!-- Custom js for this page-->
 <script src="{!! url('') !!}/home/js/dashboard.js"></script>
 <script src="{!! url('') !!}/home/js/data-table.js"></script>
 <script src="{!! url('') !!}/home/js/jquery.dataTables.js"></script>
 <script src="{!! url('') !!}/home/js/dataTables.bootstrap4.js"></script>
-<!-- End custom js for this page-->
-</body>
+
 <meta name="csrf-token" content="{{ csrf_token() }}">
 @yield('script')
+</body>
 </html>
 
 
