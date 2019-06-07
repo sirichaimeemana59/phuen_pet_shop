@@ -43,3 +43,4 @@ Route::post('/employee/unit/add','Product\UnitController@create');
 //employee_sell_product
 Route::any('/employee/sell/product','Sell\SellproductController@index');
 Route::post('/employee/sell/search_product','Sell\SellproductController@create');
+Route::post('/employee/sell/product/add_order_product','Sell\SellproductController@store');

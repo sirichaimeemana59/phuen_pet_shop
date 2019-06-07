@@ -36,7 +36,7 @@
                         <h3 class="panel-title" style="text-align: center;">{!! trans('messages.sell.order') !!}</h3>
                     </div>
                     <div class="panel-body search-form table-responsive">
-                        {!! Form::model(null,array('url' => array('/teacher/group_student/add'),'class'=>'form-horizontal form_add','id'=>'form_add','method'=>'post','enctype'=>'multipart/form-data')) !!}
+                        {!! Form::model(null,array('url' => array('/employee/sell/product/add_order_product'),'class'=>'form-horizontal form_add','id'=>'form_add','method'=>'post','enctype'=>'multipart/form-data')) !!}
                         <table class="table itemTables" style="width: 100%">
                             <tr>
                                 <th ></th>
@@ -70,22 +70,22 @@
                 </tr>
                 <tr style="text-align: right;font-weight: bold;">
                     <td colspan="5" style="text-align: right;font-weight: bold;">{!! trans('messages.payment.title') !!}</td>
-                    <td style="text-align: right;"><input type="text" class="total form-control" readonly> <input type="hidden" class="_total"></td>
+                    <td style="text-align: right;"><input type="text" class="total form-control" readonly name="total"> <input type="hidden" class="_total"></td>
                     <td style="text-align: left;">{!! trans('messages.payment.bath') !!}</td>
                 </tr>
                 <tr style="text-align: right;font-weight: bold;">
                     <td colspan="5" style="text-align: right;font-weight: bold;">{!! trans('messages.payment.discount') !!}</td>
-                    <td style="text-align: right;"><input type="text" class="discount form-control" required placeholder="0.00"></td>
+                    <td style="text-align: right;"><input type="text" class="discount form-control" required placeholder="0.00" name="discount"></td>
                     <td style="text-align: left;">{!! trans('messages.payment.bath') !!}</td>
                 </tr>
                 <tr style="text-align: right;font-weight: bold;">
                     <td colspan="5" style="text-align: right;font-weight: bold;">{!! trans('messages.payment.net') !!}</td>
-                    <td style="text-align: right;"><input type="text" class="net form-control" readonly  placeholder="0.00"></td>
+                    <td style="text-align: right;"><input type="text" class="net form-control" readonly  placeholder="0.00" name="net"></td>
                     <td style="text-align: left;">{!! trans('messages.payment.bath') !!}</td>
                 </tr>
                 <tr style="text-align: right;font-weight: bold;">
                     <td colspan="5" style="text-align: right;font-weight: bold;">{!! trans('messages.payment.money') !!}</td>
-                    <td style="text-align: right;"><input type="text" class="money form-control" required  placeholder="0.00"></td>
+                    <td style="text-align: right;"><input type="text" class="money form-control" required  placeholder="0.00" name="money"></td>
                     <td style="text-align: left;">{!! trans('messages.payment.bath') !!}</td>
                 </tr>
                 <tr style="text-align: right;font-weight: bold;">
@@ -138,6 +138,7 @@
                             var name_th = e.name_th;
                             var price = e.price;
                             var photo = e.photo;
+                            var id = e.id;
                             var time = $.now();
 
                             var total = price * 1;
@@ -157,9 +158,9 @@
                                 '<td></td>',
                                 '<td><img src="' + photo + '" alt="" width="25%"></td>',
                                 '<td><span>' + name + '</span></td>',
-                                '<td><input type="number" class="price_total" name="[' + time + '][amount]" min="1" max="10" value="1"></td>',
-                                '<td><input type="hidden" name="[' + time + '][price]" class="price" value="' + price + '"><span>' + price + '</span></td>',
-                                '<td><input type="text" class="result form-control" value="' + total + '" readonly name="[' + time + '][result]"></td>',
+                                '<td><input type="number" class="price_total" name="data[' + time + '][amount]" min="1" max="10" value="1"></td>',
+                                '<td><input type="hidden" name="data['+time+'][product_id]" value="'+id+'"><input type="hidden" name="data[' + time + '][price]" class="price" value="' + price + '"><span>' + price + '</span></td>',
+                                '<td><input type="text" class="result form-control" value="' + total + '" readonly name="data[' + time + '][result]"></td>',
                                 '<td><a class="btn btn-danger delete-subject"><i class="mdi mdi-delete-sweep"></i></a></td>',
                             ];
 
