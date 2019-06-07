@@ -43,6 +43,7 @@ return [
         'photo' => 'Photo',
         'amount' => 'Amount',
         'unit_id' => 'Unit',
+        'total' => 'Total',
     ],
     'store' => [
         'title' => 'Store',
@@ -55,5 +56,20 @@ return [
     'unit' => [
         'title' => 'Unit',
         'name' => 'Name',
+    ],
+    'sell' => [
+        'title' => 'Sale',
+        'sale' => 'Selling products',
+        'code' => 'Bar Code And ID Product',
+        'order' => 'List Order Product',
+        'payment' => 'Payment',
+    ],
+    'payment' => [
+        'title' => 'Total',
+        'net' => 'Net Price',
+        'discount' => 'Discount',
+        'money' => 'Money',
+        'withdrawal' => 'Withdrawal',
+        'bath' => 'Bath',
     ]
 ];

@@ -235,6 +235,7 @@
                 }
             });
 
+
             $('.view-store').on('click',function(){
                 var id = $(this).data('id');
                 $('#view-store').modal('show');

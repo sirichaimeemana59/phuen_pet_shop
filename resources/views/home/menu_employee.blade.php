@@ -19,6 +19,12 @@
             </a>
         </li>
         <li class="nav-item">
+            <a class="nav-link" href="{!! url('/employee/sell/product') !!}">
+                <i class="fa fa-sellsy menu-icon"></i>
+                <span class="menu-title">{!! trans('messages.sell.title') !!}</span>
+            </a>
+        </li>
+        <li class="nav-item">
             <a class="nav-link" href="pages/forms/basic_elements.html">
                 <i class="mdi mdi-view-headline menu-icon"></i>
                 <span class="menu-title">Form elements</span>

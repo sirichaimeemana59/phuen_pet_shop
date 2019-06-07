@@ -39,3 +39,7 @@ Route::post('/employee/company_store/delete','Product\CompanystoreController@des
 //employee_unit_store
 Route::any('/employee/unit_store','Product\UnitController@index');
 Route::post('/employee/unit/add','Product\UnitController@create');
+
+//employee_sell_product
+Route::any('/employee/sell/product','Sell\SellproductController@index');
+Route::post('/employee/sell/search_product','Sell\SellproductController@create');
